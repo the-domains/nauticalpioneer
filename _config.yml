@@ -1,29 +1,18 @@
-name: Nautical Pioneer
-favicon: null
-layout_spectrum: 0.9208561775740236
-typography_spectrum: 0.8600738036911935
-title: The Nautical Pioneer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#38393b'
-    - '#adaeae'
-    - '#5e5f61'
-    - '#8e8f91'
+    - '#C0C0C0'
+    - '#285880'
+    - '#888880'
+    - '#3078A8'
+    - '#000000'
   brandStrength: 0
   lightness: 0.2609118134714663
-  saturation: 0.6545627196319401
   rhythmicContrast: 0.7795492878649384
+  saturation: 0.6545627196319401
+cta: {}
+layout_spectrum: 0.862612
+name: Nautical Pioneer
+opengraph: {}
 purpose: []
+typography_spectrum: 0.601351
